@@ -141,8 +141,8 @@ document.onkeydown = e => {
   if (e.key === 'ArrowRight') {
     game.bgm3.play();
     game.frog.x += 3;
-    if (game.frog.x > 653) {
-      game.frog.x = 653;
+    if (game.frog.x > 605) {
+      game.frog.x = 605;
     }
   }
   if (e.key === 'ArrowLeft') {
@@ -188,8 +188,8 @@ function click_R() {
   if (game.state === 'gaming') {
     game.bgm3.play();
     game.frog.x += 3;
-    if (game.frog.x > 653) {
-      game.frog.x = 653;
+    if (game.frog.x > 605) {
+      game.frog.x = 605;
     }
   }
 }
