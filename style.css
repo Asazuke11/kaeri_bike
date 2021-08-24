@@ -1,0 +1,25 @@
+body{
+  background-image: url(./images/BG.png);
+  filter: grayscale(50%);
+}
+
+.flexBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 98vw;
+  height: 96vh;
+}
+
+#canvas{
+  background-image: url(./images/makimono.png);
+  filter: drop-shadow(5px 5px 5px black);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#C{
+  margin-left: 30px;
+  margin-right: 30px;
+}
