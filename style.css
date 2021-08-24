@@ -8,8 +8,6 @@ body{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 98vw;
-  height: 96vh;
 }
 
 #canvas{
