@@ -19,4 +19,5 @@
 - [ダ鳥獣ギ画](https://chojugiga.com/)
 - [イラストAC](https://www.ac-illust.com/)
 - [Bg-Pattrens](http://bg-patterns.com/)
+- [効果音ラボ](https://soundeffect-lab.info/)
 - Youtube オーディオライブラリ
